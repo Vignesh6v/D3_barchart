@@ -14,4 +14,4 @@ Using the inputs from Math.random() and generating the Bar chart with the transi
 
 The output for the following program is be shown
 
-![Alt tag](https://drive.google.com/file/d/0B5wG19VKdlJCNTVSd0Q3VHhvalE/view?usp=sharing "Bar chart with tooltips")
+![Alt tag](https://drive.google.com/file/d/0B5wG19VKdlJCNTVSd0Q3VHhvalE/view "Bar chart with tooltips")
