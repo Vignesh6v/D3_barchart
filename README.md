@@ -14,4 +14,4 @@ Using the inputs from Math.random() and generating the Bar chart with the transi
 
 The output for the following program is be shown
 
-![Alt tag](https://drive.google.com/file/d/0B5wG19VKdlJCNTVSd0Q3VHhvalE/view "Bar chart with tooltips")
+![Alt text](https://github.com/Vignesh6v/D3_basics/blob/master/barchart.png "Bar chart with tooltips")
